@@ -16,7 +16,7 @@ Steps to create a development environment:
    - Open the folder (C:\Users\ADMIN\Desktop\kiambu) in VS Code.
    - Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on macOS) to open the Command Palette.
    - Search for and select "Python: Select Interpreter."
-   - Choose the interpreter that corresponds to the .venv directory (e.g., `.venv\\Scripts\\python.exe`).
+   - Choose the interpreter corresponding to the .venv directory (e.g., `.venv\\Scripts\\python.exe`).
 4. Activate the virtual environment manually (optional):
    - On Windows: Execute the following command in Command Prompt or PowerShell:
      .\.venv\Scripts\activate
